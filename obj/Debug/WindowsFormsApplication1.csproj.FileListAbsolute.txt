@@ -1,0 +1,23 @@
+c:\users\kadir tekin\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\kadir tekin\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Kadir Tekin\Desktop\Form1.dll.config
+C:\Users\Kadir Tekin\Desktop\Form1.dll
+C:\Users\Kadir Tekin\Desktop\Form1.pdb
+C:\Users\Kadir Tekin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Kadir Tekin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Kadir Tekin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Kadir Tekin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Kadir Tekin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Kadir Tekin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Kadir Tekin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Gecmis.resources
+C:\Users\Kadir Tekin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Favoriler.resources
+C:\Users\Kadir Tekin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Web Art - Tarayıcı.exe.config
+C:\Users\Kadir Tekin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Web Art - Tarayıcı.exe
+C:\Users\Kadir Tekin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Web Art - Tarayıcı.pdb
+C:\Users\Kadir Tekin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Web Art - Tarayıcı.exe
+C:\Users\Kadir Tekin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Web Art - Tarayıcı.pdb
+C:\Users\Kadir Tekin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kadir Tekin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Kadir Tekin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Kadir Tekin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Kadir Tekin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.AcroPDFLib.dll
